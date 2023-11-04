@@ -1,5 +1,3 @@
-#Nome: Ana Julia Cunha e Silva
-#RA: 236038
 #Análise Fatorial Exploratoria
 
 #Passo 1, obter o banco de dados 
