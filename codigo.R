@@ -2,7 +2,7 @@
 
 #Passo 1, obter o banco de dados 
 #ja mudando a coluna1 para o nome das linhas
-dados <- read.csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSIaFykBQ88Ru2YQXsoEvCAYCvBob9GMQZLTr46BRBZVFDiFOWtGE5k-A2qJnM7PGaUVRtFTPc5W7Eq/pub?gid=1016079241&single=true&output=csv",
+dados <- read.csv("https://raw.githubusercontent.com/ajcunhw/Analise_Fatorial_Exploratoria/main/women_track_records.csv",
                   row.names = 1)
 
 #Passo 2, bibliotecas
