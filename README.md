@@ -1,1 +1,1 @@
-# Análise Fatorial Exploratória - Técnicas de Análise Multivariada
+# Análise Fatorial Exploratória
